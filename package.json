@@ -1,0 +1,23 @@
+{
+  "name" : "Aufgabe3_NodeJS",
+  "description" : "abrufen von OpenWeatherMap",
+  "version" : "0.0.1",
+  "main" : "./Aufagbe3_NodeJS.js",
+  "keywords" : [ ],
+  "licenses" : {
+    "type" : "default"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/arnevogt/Aufagbe3_NodeJS.git"
+  },
+  "bugs" : {
+    "url" : "http://github.com/arnevogt/Aufagbe3_NodeJS/issues"
+  },
+  "dependencies" : {
+    "openweathermap" : "1.0.0"
+  },
+  "license" : {
+    "type" : "bsd"
+  }
+}
